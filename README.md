@@ -22,7 +22,7 @@ cd image
 7z x image.7z.001
 
 
-cd image
+cd [18Jun2025]
 sha256sum *
 
 ```
