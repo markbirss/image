@@ -1,6 +1,6 @@
 # ubuntu-24.04.2-picocalc (Developer Image - HUGE
 
-[Updated] 2025-06-18
+[Updated] 2025-06-18 - Bug Fix - Uknown Symbols when loading kernel modules
 
 # To extract the image you will require upto 50GB of free disk space and a fast SD/tfCard of at least 16GB
 I use these
