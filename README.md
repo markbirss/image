@@ -13,11 +13,12 @@ cd image
 
 
 ```
-git clone https://github.com/markbirss/ubuntu-24.04.2-picocalc.git; cd ubuntu-24.04.2-picocalc/image/
+git clone https://github.com/markbirss/ubuntu-24.04.2-picocalc.git
 
 cd ubuntu-24.04.2-picocalc
 rm -fr .git/
 cd image
+
 7z x image.7z.001
 
 
